@@ -1,0 +1,8 @@
+D:/Kuliah/Semester 6/Pengembangan Game/UAS/Go Up/Go Up/.utmp/RelWithDebInfo/736b482g/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Kuliah/Semester 6/Pengembangan Game/UAS/Go Up/Go Up/.utmp/RelWithDebInfo/736b482g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/Kuliah/Semester 6/Pengembangan Game/UAS/Go Up/Go Up/.utmp/RelWithDebInfo/736b482g/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+D:/Kuliah/Semester 6/Pengembangan Game/UAS/Go Up/Go Up/.utmp/RelWithDebInfo/736b482g/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Kuliah/Semester 6/Pengembangan Game/UAS/Go Up/Go Up/.utmp/RelWithDebInfo/736b482g/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/Kuliah/Semester 6/Pengembangan Game/UAS/Go Up/Go Up/.utmp/RelWithDebInfo/736b482g/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Kuliah/Semester 6/Pengembangan Game/UAS/Go Up/Go Up/.utmp/RelWithDebInfo/736b482g/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Kuliah/Semester 6/Pengembangan Game/UAS/Go Up/Go Up/.utmp/RelWithDebInfo/736b482g/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

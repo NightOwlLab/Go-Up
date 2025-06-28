@@ -1,0 +1,3 @@
+D:\Kuliah\Semester 6\Pengembangan Game\UAS\Go Up\Go Up\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Kuliah\Semester 6\Pengembangan Game\UAS\Go Up\Go Up\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+D:\Kuliah\Semester 6\Pengembangan Game\UAS\Go Up\Go Up\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
