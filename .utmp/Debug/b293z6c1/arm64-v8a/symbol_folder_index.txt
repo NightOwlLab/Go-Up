@@ -1,0 +1,1 @@
+D:\Kuliah\Semester 6\Pengembangan Game\UAS\Go Up\Go Up\Library\PramData\AndroidApplicationController\Cache\com.DefaultCompany.com.unity.template.mobile2D\gradle-project\unityLibrary\build\intermediates\cxx\Debug\b293z6c1\obj\arm64-v8a

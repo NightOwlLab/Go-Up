@@ -7,30 +7,29 @@ public class Player : MonoBehaviour
     public float gyroSensitivity = 3f;
     float movement = 0f;
     Rigidbody2D rb;
-    bool isMobile;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-
-        // Deteksi apakah berjalan di perangkat mobile (bukan editor/emulator)
-        isMobile = SystemInfo.deviceType == DeviceType.Handheld;
+        // Aktifkan gyro jika perangkat mendukung
+        if (SystemInfo.supportsGyroscope)
+        {
+            Input.gyro.enabled = true;
+        }
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if (isMobile)
+        // Prioritaskan gyro jika tersedia dan perangkat mendukung
+        if (Input.gyro.enabled && Application.isMobilePlatform)
         {
-            // Ambil input dari gyro/accelerometer
-            float accX = Input.acceleration.x;
-            Debug.Log("Akselerasi X: " + accX);
+            float accX = Input.gyro.gravity.x;
+            Debug.Log("Akselerasi X (Gyro): " + accX);
             movement = Mathf.Clamp(accX * movementSpeed * gyroSensitivity, -movementSpeed, movementSpeed);
         }
         else
         {
-            // Ambil input dari keyboard (editor atau emulator)
+            // Gunakan keyboard untuk emulator/editor
             movement = Input.GetAxis("Horizontal") * movementSpeed;
         }
     }

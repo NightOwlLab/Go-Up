@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Tertain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PauseManager.cs",
               "DocumentMoniker": "D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\PauseManager.cs",
               "RelativeDocumentMoniker": "Assets\\PauseManager.cs",
@@ -59,20 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\GameManager.cs",
               "ToolTip": "D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\GameManager.cs",
               "RelativeToolTip": "Assets\\GameManager.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T16:14:17.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StartScreenManager.cs",
               "DocumentMoniker": "D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\StartScreenManager.cs",
               "RelativeDocumentMoniker": "Assets\\StartScreenManager.cs",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Tertain.cs",
               "DocumentMoniker": "D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\Tertain.cs",
               "RelativeDocumentMoniker": "Assets\\Tertain.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LevelGenerator.cs",
               "DocumentMoniker": "D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\LevelGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\LevelGenerator.cs",
@@ -124,20 +124,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Player.cs",
               "ToolTip": "D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\Player.cs",
               "RelativeToolTip": "Assets\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T17:42:35.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Box.cs",
               "DocumentMoniker": "D:\\Kuliah\\Semester 6\\Pengembangan Game\\UAS\\Go Up\\Go Up\\Assets\\Box.cs",
               "RelativeDocumentMoniker": "Assets\\Box.cs",
