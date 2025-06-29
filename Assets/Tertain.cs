@@ -5,9 +5,9 @@ public class Tertain : Platform
     // Tertain inherits all functionality from Platform
     // Can add specific Tertain behavior here if needed
     
-    void Start()
+    protected override void Start()
     {
-        // Call base Start if needed
+        // Call base Start
         base.Start();
         
         // Tertain-specific initialization can go here

@@ -15,7 +15,7 @@ public class Platform : MonoBehaviour
 
     private AudioSource audioSource;
 
-    void Start()
+    protected virtual void Start()
     {
         audioSource = GetComponent<AudioSource>();
     }

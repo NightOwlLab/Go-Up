@@ -5,9 +5,9 @@ public class Box : Platform
     // Box inherits all functionality from Platform
     // Can add specific Box behavior here if needed
     
-    void Start()
+    protected override void Start()
     {
-        // Call base Start if needed
+        // Call base Start
         base.Start();
         
         // Box-specific initialization can go here
