@@ -1,20 +1,16 @@
 using UnityEngine;
 
-public class Tertain : MonoBehaviour
+public class Tertain : Platform
 {
-    public float jumpForce = 12.5f;
-
-    void OnCollisionEnter2D(Collision2D collision)
+    // Tertain inherits all functionality from Platform
+    // Can add specific Tertain behavior here if needed
+    
+    void Start()
     {
-        if (collision.relativeVelocity.y <= 0f)
-        {
-            Rigidbody2D rb = collision.collider.GetComponent<Rigidbody2D>();
-            if (rb != null)
-            {
-                Vector2 velocity = rb.linearVelocity;
-                velocity.y = jumpForce;
-                rb.linearVelocity = velocity;
-            }
-        }
+        // Call base Start if needed
+        base.Start();
+        
+        // Tertain-specific initialization can go here
+        // For example: different visual effects, terrain-specific behavior, etc.
     }
 }
